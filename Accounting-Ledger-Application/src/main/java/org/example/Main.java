@@ -1,7 +1,7 @@
 package org.example;
 
 import java.util.Scanner;
-
+// abe test
 public class Main {
     static Scanner asking = new Scanner(System.in);
     public static void main(String[] args) {
